@@ -1,5 +1,6 @@
 ### Welcome to my GitHub
 - 🌱 I’m currently learning the basics of Python
+-  My passions include web development, OOP languagues such as java, and learning more about machine learning
 - 📫 How to reach me: email - jc0223@mix.wvu.edu
 
 <!--
