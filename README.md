@@ -1,8 +1,8 @@
 ### Welcome to my GitHub
 - I have experience working with JAVA, HTML/CSS, SQL, and C/C#
-- 🌱 I’m currently learning the basics of Python
--  My passions include web development, OOP languagues such as java, and learning more about machine learning
-- 📫 How to reach me: email - jc0223@mix.wvu.edu
+- I’m currently learning the basics of Python
+- My passions include web development, OOP languagues such as java, and learning more about machine learning
+- How to reach me: email - jc0223@mix.wvu.edu
 - Please check this repository for some of my personal projects!
 
 <!--
